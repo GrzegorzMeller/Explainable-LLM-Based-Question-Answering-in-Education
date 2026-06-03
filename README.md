@@ -19,12 +19,13 @@
 <p>Stimulus 3</p>
 <img width="5160" height="3255" alt="condition3" src="https://github.com/user-attachments/assets/73635bad-5d1d-476d-9bac-2492c7bc0c8a" />
 
-<b>Learning Analytics Scaffolds</b>
+<h2>Learning Analytics Integration</h2>
 <img width="3201" height="2076" alt="learninganlytics" src="https://github.com/user-attachments/assets/22a8de40-9367-4413-8b23-3776282e8a60" />
-further motivation to it...
+<p> To complement explainability with pedagogical context, the knowledge graph was enriched with Learning Analytics (LA) scaffolds derived directly from the learning management system (EdX). Unlike traditional LA dashboards that present performance across an entire course, the scaffolds are contextualized to the learner's current question. When the chatbot retrieves concepts relevant to a query, the graph additionally exposes learning traces associated with those concepts, such as quiz and exercise results. In the example shown, the learner achieved full marks on assessment activities related to Chapter 1, while their performance on Chapter 2 was substantially lower. By linking learning traces directly to the concepts involved in answer generation, the system provides personalized context about the learner's prior engagement with the queried topics. We investigated whether exposing this information alongside explanation artifacts could encourage learners to reflect on their current level of understanding, identify knowledge gaps, and adapt subsequent study activities. Beyond supporting reflection, this integration extends the role of the knowledge graph from an explanation artifact to a personalized learning interface, providing an additional rationale for visualizing the graph to end users.</p>
 
-<br />
-<b>Files of this Repository</b>
-A
-B
-C
+<h2>Backend workflow</h2>
+
+
+<h2>Early designs used during the co-design session</h2>
+
+
