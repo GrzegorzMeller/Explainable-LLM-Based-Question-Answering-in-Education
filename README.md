@@ -1,5 +1,12 @@
 # Towards Explainable LLM-Based Question Answering in Education: Supporting Provenance Understanding and Trust Through Interactive Explanation Artifacts
 
+<p>This repository serves as an online appendix accompanying the paper "Towards Explainable LLM-Based Question Answering in Education: Supporting Provenance Understanding and Trust Through Interactive Explanation Artifacts."</p>
+
+<p>As the paper adopts a design-oriented perspective, many aspects of the proposed system are best understood through the user interface. Due to space constraints and limitations on figure size, it is not possible to include all interface components and screens in sufficient resolution within the paper itself. This repository therefore, provides additional materials that document the design of the system and support a more detailed understanding of the application that participants interacted with during the user study.</p>
+
+<p>This README serves as the primary entry point and contains descriptions of the interface components, their intended purpose, and their role within the study. High-resolution screenshots of the system can be found in the Screens folder: URL. To support transparency and reproducibility of the qualitative analysis, the repository also includes the complete thematic analysis codebook used for coding participant transcripts, including code definitions and examples: URL.</p>
+
+
 <img width="4881" height="4617" alt="main" src="https://github.com/user-attachments/assets/4c6f104a-7b79-42bf-8dc1-e8b0c54fa838" />
 <div height="20px"></div>
 <p>Figure 1. User Interface of the second stimulus used during the user study. Key interface components (number next to the letter indicates that component opens on demand, after clicking on the parent component): the User Question (A), while the Chatbot’s Answer (C), the Graph Visualization (D), the  Textual Explanation of an Extracted Node (D.1), the Quiz Scaffold (D.2, D.4), the Forum Scaffold (D.3), the Extracted Learning Materials (E), the Faithfulness Score (B), the Faithfulness Table (B.1).</p>
