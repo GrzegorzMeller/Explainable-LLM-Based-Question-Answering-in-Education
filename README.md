@@ -4,7 +4,7 @@
 
 <p>As the paper adopts a design-oriented perspective, many aspects of the proposed system are best understood through the user interface. Due to space constraints and limitations on figure size, it is not possible to include all interface components and screens in sufficient resolution within the paper itself. This repository therefore, provides additional materials that document the design of the system and support a more detailed understanding of the application that participants interacted with during the user study.</p>
 
-<p>This README serves as the primary entry point and contains descriptions of the interface components, their intended purpose, and their role within the study. High-resolution screenshots of the system can be found in the Screens folder: URL. To support transparency and reproducibility of the qualitative analysis, the repository also includes the complete thematic analysis codebook used for coding participant transcripts, including code definitions and examples: URL.</p>
+<p>This README serves as the primary entry point and contains descriptions of the interface components, their intended purpose, and their role within the study. High-resolution screenshots of the system can be found in the <a href="screens/">Screens Folder</a>. To support transparency and reproducibility of the qualitative analysis, the repository also includes the complete thematic analysis <a href="Codebook.pdf">Codebook</a> used for coding participant transcripts, including code definitions and examples.</p>
 
 
 <img width="4881" height="4617" alt="main" src="https://github.com/user-attachments/assets/4c6f104a-7b79-42bf-8dc1-e8b0c54fa838" />
