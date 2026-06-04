@@ -40,7 +40,7 @@
 <p>Description is provided in Section 3.2 of the paper.</p>
 
 
-<h2>Early designs used during the co-design session</h2>
+<h2>Early design used during the co-design session</h2>
 <img width="1318" height="1229" alt="File Upload (3)" src="https://github.com/user-attachments/assets/b2e1721b-70f5-4ac9-8e89-074075113e01" />
 
 
