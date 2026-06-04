@@ -30,7 +30,14 @@
 <img width="3201" height="2076" alt="learninganlytics" src="https://github.com/user-attachments/assets/22a8de40-9367-4413-8b23-3776282e8a60" />
 <p> To complement explainability with pedagogical context, the knowledge graph was enriched with Learning Analytics (LA) scaffolds derived directly from the learning management system (EdX). Unlike traditional LA dashboards that present performance across an entire course, the scaffolds are contextualized to the learner's current question. When the chatbot retrieves concepts relevant to a query, the graph additionally exposes learning traces associated with those concepts, such as quiz and exercise results. In the example shown, the learner achieved full marks on assessment activities related to Chapter 1, while their performance on Chapter 2 was substantially lower. By linking learning traces directly to the concepts involved in answer generation, the system provides personalized context about the learner's prior engagement with the queried topics. We investigated whether exposing this information alongside explanation artifacts could encourage learners to reflect on their current level of understanding, identify knowledge gaps, and adapt subsequent study activities. Beyond supporting reflection, this integration extends the role of the knowledge graph from an explanation artifact to a personalized learning interface, providing an additional rationale for visualizing the graph to end users.</p>
 
-<h2>Backend workflow</h2>
+<h2>The Faithfulness Table</h2>
+<img width="754" height="1109" alt="faithfulness_table_expanded" src="https://github.com/user-attachments/assets/c85526f5-b377-4469-8343-53b9f1802fd2" />
+<p>This view corresponds to the Faithfulness Table component previously introduced as B.1 in Figure 1. The table provides a scrollable, statement-level inspection of the generated answer, allowing learners to examine each extracted claim individually. For every statement, the system displays (1) a support decision indicating whether the claim is supported by the retrieved course materials and (2) a textual explanation justifying that decision. These support decisions are subsequently aggregated to compute the overall faithfulness score presented elsewhere in the interface. Beyond uncertainty communication, the table can be viewed as a form of answer debugging, enabling learners to inspect which parts of the generated response are grounded in course content and which may require additional verification.</p>
+
+
+<h2>XAI–LLM approach for theoretical QA</h2>
+<img width="5850" height="1950" alt="framework" src="https://github.com/user-attachments/assets/a34fdd37-c672-4468-bd8c-398ec554dfc0" />
+<p>Description is provided in Section 3.2 of the paper.</p>
 
 
 <h2>Early designs used during the co-design session</h2>
