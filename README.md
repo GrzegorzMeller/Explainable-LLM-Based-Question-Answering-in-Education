@@ -7,7 +7,7 @@
 <p>This README serves as the primary entry point and contains descriptions of the interface components, their intended purpose, and their role within the study. High-resolution screenshots of the system can be found in the <a href="screens/">Screens Folder</a>. To support transparency and reproducibility of the qualitative analysis, the repository also includes the complete thematic analysis <a href="Codebook.pdf">Codebook</a> used for coding participant transcripts, including code definitions and examples.</p>
 
 
-<img width="4881" height="4617" alt="main" src="https://github.com/user-attachments/assets/4c6f104a-7b79-42bf-8dc1-e8b0c54fa838" />
+<img width="100%" height="94.59%" alt="main" src="https://github.com/user-attachments/assets/4c6f104a-7b79-42bf-8dc1-e8b0c54fa838" />
 <div height="20px"></div>
 <p>Figure 1. User Interface of the second stimulus used during the user study. Key interface components (number next to the letter indicates that component opens on demand, after clicking on the parent component): the User Question (A), while the Chatbot’s Answer (C), the Graph Visualization (D), the  Textual Explanation of an Extracted Node (D.1), the Quiz Scaffold (D.2, D.4), the Forum Scaffold (D.3), the Extracted Learning Materials (E), the Faithfulness Score (B), the Faithfulness Table (B.1).</p>
 
@@ -18,7 +18,7 @@
 
 <br />
 <p>Stimulus 1</p>
-<img width="5160" height="3255" alt="condition1" src="https://github.com/user-attachments/assets/78917de1-b270-4d4b-80e6-538f49ec4bd8" />
+<img width="100%" height="63.08%" alt="condition1" src="https://github.com/user-attachments/assets/78917de1-b270-4d4b-80e6-538f49ec4bd8" />
 
 <p>Stimulus 2</p>
 <img width="5160" height="3255" alt="condition2" src="https://github.com/user-attachments/assets/d6c236d5-7cb0-4b86-bb35-c8ffcdb6d84e" />
