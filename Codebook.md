@@ -30,7 +30,7 @@ read the answer and use it normally.”</i> (P1)</p>
 Example: <i>“It’s better to read it (slides) to reconfirm the answers.”</i> (P10)</p>
 
 
-<p><b>Rejection of Reliance:</b> Participant reports abandoning the answer as a learning resource and instead seeking information elsewhere. <br />
+<p><b>Non-Reliance:</b> Participant reports abandoning the answer as a learning resource and instead seeking information elsewhere. <br />
 Example: <i>“I would re-watch the lectures instead.”</i></p>
 <br />
 
