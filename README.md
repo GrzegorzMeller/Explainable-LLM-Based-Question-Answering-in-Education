@@ -35,7 +35,7 @@
 <p>This view corresponds to the Faithfulness Table component previously introduced as B.1 in Figure 1. The table provides a scrollable, statement-level inspection of the generated answer, allowing learners to examine each extracted claim individually. For every statement, the system displays (1) a support decision indicating whether the claim is supported by the retrieved course materials and (2) a textual explanation justifying that decision. These support decisions are subsequently aggregated to compute the overall faithfulness score presented elsewhere in the interface. Beyond uncertainty communication, the table can be viewed as a form of answer debugging, enabling learners to inspect which parts of the generated response are grounded in course content and which may require additional verification.</p>
 
 
-<h2>XAI–LLM approach for theoretical QA</h2>
+<h2>Answer and Explanation Generation Workflow</h2>
 <img width="100%" height="33.33%" alt="framework" src="https://github.com/user-attachments/assets/a34fdd37-c672-4468-bd8c-398ec554dfc0" />
 <p>Description is provided in Section 3.2 of the paper.</p>
 
